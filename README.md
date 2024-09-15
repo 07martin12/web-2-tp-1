@@ -24,7 +24,7 @@
 2. **Las notas del usuario se agrupan por fechas (por lo tanto una misma fecha puede contener varias notas).**
 3. **Las notas de cada fecha se componen de un título y de un texto.**
 
-**Estas relaciones y propiedades quedan expuestas en el “diagrama derelación” donde la tabla “usuarios” es la encargada de almacenar los datos de cada usuario del sitio y conectarse mediante el campo “idUsuario” con la tabla “libretas”, encargada de almacenar el número total de notas del usuario y las fechas de su creación. Por otro lado, la tabla “libretas” mediante el campo “idFecha” se relaciona con la tabla “notas” encargada de almacenar el contenido de cada nota y su título correspondiente.** 
+**Estas relaciones y propiedades quedan expuestas en el “diagrama de relación” donde la tabla “usuarios” es la encargada de almacenar los datos de cada usuario del sitio y conectarse mediante el campo “idUsuario” con la tabla “libretas”, encargada de almacenar el número total de notas del usuario y las fechas de su creación. Por otro lado, la tabla “libretas” mediante el campo “idFecha” se relaciona con la tabla “notas” encargada de almacenar el contenido de cada nota y su título correspondiente.** 
 
 
 
