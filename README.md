@@ -4,7 +4,7 @@
 * Nombre: Joel Fuentes 
     * Email: fuenteslautarojoe@gmail.com
 * Nombre: Martín Lorenzi
-    * Email: alexmartir9c@gmail.com 
+    * Email: alexmartin9c@gmail.com 
 
 **El siguiente proyecto tiene como finalidad realizar una base de datos destinada a una aplicación de notas. En esta aplicación el usuario contará con las siguientes funcionalidades:**
 
