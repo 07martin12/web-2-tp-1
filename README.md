@@ -6,11 +6,13 @@
 * Nombre: Martín Lorenzi
     * Email: alexmartin9c@gmail.com 
 
-**El siguiente proyecto tiene como finalidad realizar una base de datos destinada a una aplicación de notas. En esta aplicación el usuario contará con las siguientes funcionalidades:**
+**El objetivo de este proyecto es desarrollar una base de datos para una aplicación de notas. La aplicación permite a los usuarios realizar las siguientes acciones:**
 
-1. **El usuario puede registrarse en el sitio y obtener una libreta de notas.**
-2. **Con esta libreta el usuario podrá crear, solicitar, modificar, o eliminar sus notas.**
-3. **Las notas del usuario son identificadas por fechas y estás permiten su futura consulta o modificación.**
+1. **Registro de usuario: Los usuarios pueden registrarse en el sitio y obtener una libreta de notas.**
+2. **Gestión de notas: Con esta libreta los usuarios pueden crear, solicitar, modificar, o eliminar sus notas.**
+3. **Identificación de notas: Las notas de cada usuario son identificadas por fechas, lo que permite su futura consulta o modificación.**
+
+#### diagrama de relacion entre tablas: 
 
 ![diagrama de relacion](diagramaDeRelacion.png)
 
